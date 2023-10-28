@@ -63,7 +63,7 @@ python SudokuAPP.py
 python3 SudokuAPP.py
 ```
 
-In Conclusion:
+
 
 For Sudoku enthusiasts, Sudoku Solver is your ticket to swiftly and efficiently conquering these puzzles. With its potent algorithm and user-friendly GUI, you'll be mastering puzzles in no time. Not only is Sudoku a gratifying challenge, but it's also a fantastic way to exercise your mind and boost your cognitive abilities, making it an enjoyable game for individuals of all ages.
 
