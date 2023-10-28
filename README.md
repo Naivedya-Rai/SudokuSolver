@@ -1,7 +1,7 @@
 ![thumbnail](https://github.com/Naivedya-Rai/SudokuSolver/assets/122347651/01b4e13a-bc22-4d8e-b70a-542efaf44cca)
 
 # Sudoku Solver: Your Smart Path to Puzzle Victory!
-Certainly! Here's a refined version of the content for your GitHub readme:
+
 
 ---
 
